@@ -1,0 +1,10 @@
+{
+  "name": "hartgulp",
+  "version": "0.0.1",
+  "description": "MOje prvni aplikace s gulpem",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Radek HART"
+}
