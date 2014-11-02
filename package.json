@@ -6,5 +6,9 @@
     "type": "git",
     "url": "?.git"
   },
-  "author": "Radek HART"
+  "author": "Radek HART",
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-util": "^3.0.1"
+  }
 }
